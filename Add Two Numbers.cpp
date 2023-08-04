@@ -4,10 +4,10 @@ using namespace std;
 
 int main() 
 {
-   int t;
-   cin>>t;
+   int T;
+   cin>>T;
    int a,b;
-   while(t--){
+   while(T--){
     int sum=0;
     cin>>a>>b;
     sum=a+b;
