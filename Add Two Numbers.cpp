@@ -6,11 +6,11 @@ int main()
 {
    int T;
    cin>>T;
-   int a,b;
+   int A,B;
    while(T--){
     int sum=0;
-    cin>>a>>b;
-    sum=a+b;
+    cin>>A>>B;
+    sum=A+B;
     cout<<sum<<"\n";
    }
    return 0;
