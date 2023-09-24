@@ -1,8 +1,8 @@
-//Air Index
+//Air Index in Codeshef Starters
 #include <iostream>
 using namespace std;
-
-int main() {
+int main() 
+{
     int X;
     cin>>X;
     if(X<100)
@@ -11,3 +11,4 @@ int main() {
     cout<<"NO"<<endl;
 	return 0;
 }
+//End of program
