@@ -8,7 +8,7 @@ using namespace std;
 
 int main() 
 {
-   int T;
+   int T; //Input value of T
    cin>>T;
    int A,B;
    while(T--){
