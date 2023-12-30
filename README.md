@@ -1,2 +1,2 @@
 # Codechef-Solutions-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="Image Alt Text" width="300" height="200">
+<img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="Image Alt Text" width="600" height="400">
