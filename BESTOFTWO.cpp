@@ -1,6 +1,8 @@
 // You don't need to add/edit anything to the below solution. 
 // Click on the SUBMIT button to solve your first problem on CodeChef.
-//BESTOFTWO
+//BEST
+//OF
+//TWONUMBERS
 #include <iostream>
 using namespace std;
 int main() {
